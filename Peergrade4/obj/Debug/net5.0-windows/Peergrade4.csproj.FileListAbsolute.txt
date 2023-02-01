@@ -1,0 +1,58 @@
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.exe
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.deps.json
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.runtimeconfig.json
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.runtimeconfig.dev.json
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.dll
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\ref\Peergrade4.dll
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.pdb
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.csproj.AssemblyReference.cache
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.Form1.resources
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.csproj.GenerateResource.cache
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.AssemblyInfoInputs.cache
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.AssemblyInfo.cs
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.csproj.CoreCompileInputs.cache
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.dll
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\ref\Peergrade4.dll
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.pdb
+D:\ПрогаВШЭ\C#\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.genruntimeconfig.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.exe
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.deps.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.runtimeconfig.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.runtimeconfig.dev.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\ref\Peergrade4.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.pdb
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.csproj.AssemblyReference.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.Form1.resources
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.csproj.GenerateResource.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.AssemblyInfoInputs.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.AssemblyInfo.cs
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.csproj.CoreCompileInputs.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\ref\Peergrade4.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.pdb
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.genruntimeconfig.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.Form2.resources
+D:\ПрогаВШЭ\PeerGrade\Peergrade4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.Form3.resources
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.exe
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.deps.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.runtimeconfig.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.runtimeconfig.dev.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\bin\Debug\net5.0-windows\ref\Peergrade4.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\bin\Debug\net5.0-windows\Peergrade4.pdb
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.csproj.AssemblyReference.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.Form1.resources
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.Form2.resources
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.Form3.resources
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.csproj.GenerateResource.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.AssemblyInfoInputs.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.AssemblyInfo.cs
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.csproj.CoreCompileInputs.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\ref\Peergrade4.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.pdb
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 4\Peergrade4\obj\Debug\net5.0-windows\Peergrade4.genruntimeconfig.cache
